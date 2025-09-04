@@ -1,5 +1,5 @@
 # Open_Source_Asgn01
-Open_Source_Software Asgn_01 by Noh Jeong Min
+Open_Source_Software Asgn_01 by Noh Jeong Min(22101168)
 
 
 > 유닉스 명령어 정리 _ 3
